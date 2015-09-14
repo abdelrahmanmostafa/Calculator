@@ -16,7 +16,7 @@ void startCalc()
 	while(1)
 	{
     cout<<endl;
-	cout<<"********Simple UI Caclulator********"<<endl;
+	cout<<"********Simple  Caclulator********"<<endl;
     cout<<"select an operation"<<endl;
     cout<<"1:addition"<<endl;
     cout<<"2:substraction"<<endl;
